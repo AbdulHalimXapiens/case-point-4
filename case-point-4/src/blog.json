@@ -1,31 +1,31 @@
 [{
         "judul_blog": "Why Living Walls are Blossoming in Cities Worldwide",
         "isi_judul_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Quis ipsum suspendisse ultrices gravida.Risus commodo viverra maecenas accumsan lacus vel facilisis.",
-        "img_blog": ""
+        "img_blog": "https://raw.githubusercontent.com/AbdulHalimXapiens/case-point-4/master/case-point-4/public/assets/blog/artikel1.svg"
     },
     {
         "judul_blog": "3 Beautifully Scented Plants for the Kitchen",
         "isi_judul_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Quis ipsum suspendisse ultrices gravida.Risus commodo viverra maecenas accumsan lacus vel facilisis.",
-        "img_blog": ""
+        "img_blog": "https://raw.githubusercontent.com/AbdulHalimXapiens/case-point-4/master/case-point-4/public/assets/blog/artikel2.svg"
     },
     {
         "judul_blog": "I Overwatered my rubber plant and this is what I learnt.",
         "isi_judul_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Quis ipsum suspendisse ultrices gravida.Risus commodo viverra maecenas accumsan lacus vel facilisis.",
-        "img_blog": ""
+        "img_blog": "https://raw.githubusercontent.com/AbdulHalimXapiens/case-point-4/master/case-point-4/public/assets/blog/artikel3.svg"
     },
     {
         "judul_blog": "5 Unkillable Houseplants For All",
         "isi_judul_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Quis ipsum suspendisse ultrices gravida.Risus commodo viverra maecenas accumsan lacus vel facilisis.",
-        "img_blog": ""
+        "img_blog": "https://raw.githubusercontent.com/AbdulHalimXapiens/case-point-4/master/case-point-4/public/assets/blog/artikel4.svg"
     },
     {
         "judul_blog": "Plants VS. Holidays",
         "isi_judul_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Quis ipsum suspendisse ultrices gravida.Risus commodo viverra maecenas accumsan lacus vel facilisis.",
-        "img_blog": ""
+        "img_blog": "https://raw.githubusercontent.com/AbdulHalimXapiens/case-point-4/master/case-point-4/public/assets/blog/artikel5.svg"
     },
     {
         "judul_blog": "Most Resilient Indoor Plants",
         "isi_judul_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Quis ipsum suspendisse ultrices gravida.Risus commodo viverra maecenas accumsan lacus vel facilisis.",
-        "img_blog": ""
+        "img_blog": "https://raw.githubusercontent.com/AbdulHalimXapiens/case-point-4/master/case-point-4/public/assets/blog/artikel6.svg"
     }
 ]
